@@ -3,7 +3,7 @@ This repo is the official code of [paper](https://arxiv.org/abs/2308.04156):
 
 **"Towards Top-Down Stereoscopic Image Quality Assessment via Stereo Attention"**.
 
-[Huilin Zhang](https://fanningzhang.tech), Sumei Li, Yongli Chang.
+Sumei Li, [Huilin Zhang](https://huilinzhang.tech), Haoxiang Chang, Peimin Lin, Wei Xiang.
 
 Tianjin University, Tianjin, China.
 
